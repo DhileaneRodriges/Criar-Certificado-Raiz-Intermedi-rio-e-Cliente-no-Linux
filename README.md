@@ -68,16 +68,16 @@ countryName_default             = GB
 stateOrProvinceName             = State or Province Name
 stateOrProvinceName_default     = England
 localityName                    = Locality Name
-localityName_default            = Cambridge
+localityName_default            = UNIJUI
 0.organizationName              = Organization Name
-0.organizationName_default      = University of Cambridge
-organizationalUnitName          = Organizational Unit Name
-organizationalUnitName_default  = Computer Laboratory
+0.organizationName_default      = UNIJUI
+organizationalUnitName          = GCA
+organizationalUnitName_default  = GCA
 commonName                      = Common Name
 commonName_default              = TLS root CA CAMB
 commonName_max                  = 64
 emailAddress                    = Email Address
-emailAddress_default            = carlos.molina@cl.cam.ac.uk
+emailAddress_default            = dhully25@gmail.com
 emailAddress_max                = 64
 
 [ v3_ca ]
@@ -154,16 +154,16 @@ countryName_default             = GB
 stateOrProvinceName             = State or Province Name
 stateOrProvinceName_default     = England
 localityName                    = Locality Name
-localityName_default            = Cambridge
+localityName_default            = UNIJUI
 0.organizationName              = Organization Name
-0.organizationName_default      = University of Cambridge
-organizationalUnitName          = Organizational Unit Name
-organizationalUnitName_default  = Computer Laboratory
+0.organizationName_default      = UNIJUI
+organizationalUnitName          = GCA
+organizationalUnitName_default  = GCA
 commonName                      = Common Name
 commonName_default              = TLS server CAMB
 commonName_max                  = 64
 emailAddress                    = Email Address
-emailAddress_default            = carlos.molina@cl.cam.ac.uk
+emailAddress_default            = dhully25@gmail.com
 emailAddress_max                = 64
 
 [ v3_ca ]
